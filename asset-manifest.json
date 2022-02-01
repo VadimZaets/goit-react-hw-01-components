@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VadimZaets/goit-react-hw-01/static/css/main.80e71549.css",
+    "main.js": "/VadimZaets/goit-react-hw-01/static/js/main.129bcbbd.js",
+    "index.html": "/VadimZaets/goit-react-hw-01/index.html",
+    "main.80e71549.css.map": "/VadimZaets/goit-react-hw-01/static/css/main.80e71549.css.map",
+    "main.129bcbbd.js.map": "/VadimZaets/goit-react-hw-01/static/js/main.129bcbbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e71549.css",
+    "static/js/main.129bcbbd.js"
+  ]
+}
